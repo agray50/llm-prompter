@@ -1,0 +1,11 @@
+# OpenAI SDK (latest with support for client.responses.create)
+openai>=1.22.0
+
+# ipywidgets for interactive UI
+ipywidgets>=8.1.1
+
+# dotenv for loading .env variables
+python-dotenv>=1.0.1
+
+# Optional: Jupyter for running the notebook (if not already installed)
+notebook>=7.1.0
